@@ -1,0 +1,3 @@
+# KarmBot
+
+KarmBot is an automated job application bot...

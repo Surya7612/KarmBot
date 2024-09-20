@@ -1,0 +1,9 @@
+# Ignore virtual environment
+karm/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment files
+.env
