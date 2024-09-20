@@ -7,3 +7,10 @@ __pycache__/
 
 # Environment files
 .env
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore IDE and editor settings
+.vscode/
+.idea/.DS_Store
