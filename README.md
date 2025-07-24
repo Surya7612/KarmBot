@@ -1,4 +1,4 @@
-# KarmBot
+# KarmBot (Work on Hault)
 
 KarmBot is an automated job application bot designed to streamline the process of applying for jobs. It integrates web scraping, AI-generated cover letters, and an alert system to notify the user of applications requiring manual review. KarmBot aims to reduce the repetitive nature of job hunting, saving you valuable time and effort.
 
